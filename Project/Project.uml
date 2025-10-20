@@ -13,7 +13,7 @@
     <packagedElement xmi:type="uml:Model" xmi:id="_HeEOUKmiEfCVgIzy7C0ovA" name="ProjectModels">
       <packagedElement xmi:type="uml:Class" xmi:id="_ODYVcKmiEfCVgIzy7C0ovA" name="Vehicle Counter Sensor">
         <ownedAttribute xmi:type="uml:Port" xmi:id="_IXqocKmlEfCVgIzy7C0ovA" name="vehicleCount" visibility="public" type="_mJpf8KmkEfCVgIzy7C0ovA" aggregation="composite"/>
-        <ownedAttribute xmi:type="uml:Port" xmi:id="_WQnBQKzyEfCxq6Gv2w4sOQ" name="serviceRegistry" visibility="public" aggregation="composite">
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_WQnBQKzyEfCxq6Gv2w4sOQ" name="serviceRegistry" visibility="public" aggregation="composite" isConjugated="true">
           <type xmi:type="uml:Class" href="pathmap://AFPVN_LIB/Arrowhead-5.0.uml#_6UnzcCTQEe-9KvpFZizseA"/>
         </ownedAttribute>
         <ownedOperation xmi:type="uml:Operation" xmi:id="_kGdKEKmtEfCVgIzy7C0ovA" name="dailyData"/>
